@@ -1,3 +1,1 @@
 This written in feature branch.
-
-Test pull and fetch.
