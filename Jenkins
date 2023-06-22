@@ -14,7 +14,7 @@ pipeline {
         }
         stage('Sonar scanning') {
             steps {
-                echo 'Scanning the quality of code'
+                echo 'Sonar Scan'
             }
         }
         stage('Publish to Artifactory') {
